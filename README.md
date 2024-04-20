@@ -25,14 +25,14 @@ py main.py
 
 Запуск фреймворку pytest для перевірки тестів у директорії tests:
 
-```pytest -v tests/
-
+```
+pytest -v tests/
 ```
 
 Запуск пакету pytest-cov для контролю тестів:
 
-```pytest -v --cov=./src --cov-report html tests/
-
+```
+pytest -v --cov=./src --cov-report html tests/
 ```
 
 Coverage HTML written to dir htmlcov
