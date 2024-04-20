@@ -1,0 +1,12 @@
+ACCOUNT_EXIST = "Account already exists!"
+NO_SUCH_USER = "No such user"
+EMAIL_NOT_CONFIRMED = "Email not confirmed"
+INCORECT_CREDENTIALS = "Incorrect credentials"
+INVALID_TOKEN = "Invalid refresh token"
+NOT_FOUND_EMAIL = "Not found user email"
+NOT_FOUND = "NOT FOUND"
+NO_CONTENT = "NO CONTENT"
+INVALID_TOKEN_EMAIL_VERIFYCATION = "Invalid token for email verification"
+COULD_NOT_VALIDATE_CREDENTIALS = "Could not validate credentials"
+INVALI_SCOPE_FOR_TOKEN = "Invalid scope for token"
+ 
